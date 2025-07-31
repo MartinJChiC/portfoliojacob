@@ -48,7 +48,7 @@ function agregarEvento(id, url) {
     });
 }
 
-agregarEvento("miImagen", "https://vigolimpieza.com/");
+agregarEvento("miImagen", "https://martinjchic.github.io/vigoproductosdelimpieza/");
 agregarEvento("miImagen2", "https://martinjchic.github.io/websitedemo/");
 agregarEvento("miImagen3", "https://martinjchic.github.io/WebsiteParticles/");
 agregarEvento("miImagen4", "https://martinjchic.github.io/menu/#");
