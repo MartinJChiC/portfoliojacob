@@ -47,8 +47,8 @@ function agregarEvento(id, url) {
         window.open(url, "_blank");
     });
 }
-agregarEvento("miImagen", "https://martinjchic.github.io/casamakech//");
-agregarEvento("miImagen", "https://martinjchic.github.io/vigoproductosdelimpieza/");
+agregarEvento("miImagen11", "https://martinjchic.github.io/casamakech//");
+agregarEvento("miImagen10", "https://martinjchic.github.io/vigoproductosdelimpieza/");
 agregarEvento("miImagen2", "https://martinjchic.github.io/websitedemo/");
 agregarEvento("miImagen3", "https://martinjchic.github.io/WebsiteParticles/");
 agregarEvento("miImagen4", "https://martinjchic.github.io/menu/#");
@@ -57,6 +57,7 @@ agregarEvento("miImagen6", "https://martinjchic.github.io/programajs10/");
 agregarEvento("miImagen7", "https://martinjchic.github.io/seccionpreguntasyrepuestas/");
 agregarEvento("miImagen8", "https://martinjchic.github.io/productgallery/");
 agregarEvento("miImagen9", "https://martinjchic.github.io/weatherappjacob/");
+
 
 
 
